@@ -1,0 +1,13 @@
+C:\Users\Ryzen\Desktop\ДЕМОЭКЗАМЕН3\ДЕМОЭКЗАМЕН3\bin\Debug\ДЕМОЭКЗАМЕН3.exe.config
+C:\Users\Ryzen\Desktop\ДЕМОЭКЗАМЕН3\ДЕМОЭКЗАМЕН3\bin\Debug\ДЕМОЭКЗАМЕН3.exe
+C:\Users\Ryzen\Desktop\ДЕМОЭКЗАМЕН3\ДЕМОЭКЗАМЕН3\bin\Debug\ДЕМОЭКЗАМЕН3.pdb
+C:\Users\Ryzen\Desktop\ДЕМОЭКЗАМЕН3\ДЕМОЭКЗАМЕН3\obj\Debug\ДЕМОЭКЗАМЕН3.AdminMenu.resources
+C:\Users\Ryzen\Desktop\ДЕМОЭКЗАМЕН3\ДЕМОЭКЗАМЕН3\obj\Debug\ДЕМОЭКЗАМЕН3.Trash.resources
+C:\Users\Ryzen\Desktop\ДЕМОЭКЗАМЕН3\ДЕМОЭКЗАМЕН3\obj\Debug\ДЕМОЭКЗАМЕН3.Autorization.resources
+C:\Users\Ryzen\Desktop\ДЕМОЭКЗАМЕН3\ДЕМОЭКЗАМЕН3\obj\Debug\ДЕМОЭКЗАМЕН3.ClientMenu.resources
+C:\Users\Ryzen\Desktop\ДЕМОЭКЗАМЕН3\ДЕМОЭКЗАМЕН3\obj\Debug\ДЕМОЭКЗАМЕН3.OrdersForm.resources
+C:\Users\Ryzen\Desktop\ДЕМОЭКЗАМЕН3\ДЕМОЭКЗАМЕН3\obj\Debug\ДЕМОЭКЗАМЕН3.Properties.Resources.resources
+C:\Users\Ryzen\Desktop\ДЕМОЭКЗАМЕН3\ДЕМОЭКЗАМЕН3\obj\Debug\Viskunov3Dr34NeOtcryvaite.csproj.GenerateResource.cache
+C:\Users\Ryzen\Desktop\ДЕМОЭКЗАМЕН3\ДЕМОЭКЗАМЕН3\obj\Debug\Viskunov3Dr34NeOtcryvaite.csproj.CoreCompileInputs.cache
+C:\Users\Ryzen\Desktop\ДЕМОЭКЗАМЕН3\ДЕМОЭКЗАМЕН3\obj\Debug\ДЕМОЭКЗАМЕН3.exe
+C:\Users\Ryzen\Desktop\ДЕМОЭКЗАМЕН3\ДЕМОЭКЗАМЕН3\obj\Debug\ДЕМОЭКЗАМЕН3.pdb
